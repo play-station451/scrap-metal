@@ -1,0 +1,4 @@
+const CHUNK_SIZE = 8;
+const TILE_SIZE = 32;
+const RENDER_DISTANCE = 4;
+const PLAYER_SPEED = 250;
